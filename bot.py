@@ -1,5 +1,4 @@
 from db import create_table
-import psycopg2
 import os
 from dotenv import load_dotenv
 import nextcord
